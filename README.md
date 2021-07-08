@@ -20,7 +20,7 @@ To try this build. In the settings of this repo in you drone ui. Set the path fo
 ### Parallelism
 
 Here is a concrete example of parallel builds in drone. For more complex usage look here. `https://docs.drone.io/pipeline/docker/syntax/parallelism/`
-To try this build. In the settings of this repo in you drone ui. Set the path for the drone file to `./basics/parallel.yml`
+To try this build. In the settings of this repo in you drone ui. Set the path for the drone file to `./basic/parallel.yml`
 
 ### Triggers and multiple pipelines
 
