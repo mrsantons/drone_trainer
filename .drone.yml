@@ -7,4 +7,4 @@ steps:
   image: golang
   pull: if-not-exists
   commands:
-  - go version
+  - go help
